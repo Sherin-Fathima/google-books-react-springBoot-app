@@ -1,0 +1,18 @@
+.container{
+    text-decoration-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 0 2px 5px 0 #00000040;
+    border-radius: 10px;
+    text-align: center;
+    color: azure;
+}
+.text-area  {
+    background-color: lightgray;
+    width: 250px;
+    margin-left:450px;
+}
+.container-form{
+    margin-right:18px;
+}

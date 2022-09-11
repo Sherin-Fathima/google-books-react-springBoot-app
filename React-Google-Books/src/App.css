@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: "Open Sans", serif;
+  background: url("assets/images/booklibrary.jpg");
+}
+
+
+
+.container{
+  margin-right: 100px,
+  
+}
+.input-area{
+  width: 600px;
+  margin-left: 270px;
+}
